@@ -1,2 +1,2 @@
-# Marte Duel Rect Portfolio Application
+# Marte Duel React Portfolio Application
 
